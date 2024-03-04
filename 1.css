@@ -1,0 +1,19 @@
+body{
+    margin-top: 200px;
+}
+.box
+{
+    margin: auto;
+    border: 5px solid black;
+    width: 300px;
+    height: 150px;
+    /* background-color: cyan; */
+     box-shadow: 20px 20px 20px 20px rgba(123, 139, 151, 0.5) ; 
+    /* border-radius: 50% 20% 40% 5px;*/
+    /* transform: rotate3d(1,20,10,90deg); */
+    /* transform: scale(1.9); */
+    /* transform: translate(-250px); */
+    /* transform: skewY(1234deg); */
+    background:linear-gradient(orange 0%,orange 32%,white 32%,white 64%,green 64%,green 100%);
+    /* background: linear-gradient(orange 30%,white 30%, green 25%); */
+} 
